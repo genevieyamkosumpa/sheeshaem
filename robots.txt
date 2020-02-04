@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chaehohji.luhonghai.info/sitemap.xml
